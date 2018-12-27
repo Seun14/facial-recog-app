@@ -1,0 +1,18 @@
+.form{
+  width: 700px;
+  background:transparant;
+/*background-image: url(black-felt.png);*/
+}
+
+.button{
+background-color:transparant;
+  /*background-image: url(black-felt.png);*/
+
+}
+
+.message{
+  font-family: "kalam","Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue";
+  font-style: oblique;
+
+}
