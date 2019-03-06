@@ -6,7 +6,7 @@ const Rank = () =>{
       <div className='white f3'>
         {'Facial recognition application'}
       </div>
-    
+
     </div>
 
   );
